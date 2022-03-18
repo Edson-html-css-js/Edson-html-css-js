@@ -1,4 +1,4 @@
-- 👋 Sou Edson, moro atualmente em São Paulo, estudo análise e desenvolvimento de sistemas, busco aprimorar meus conhecimentos.
+- 👋 Sou Edson, moro atualmente em São Paulo, estudo análise e desenvolvimento de sistemas, busco aprimorar meus conhecimentos.    
 - 👀 Estou interessado em aprender coisas novas!
 
 -  Atualmente estou aprendendo coisas novas com ênfase em html5, css3, js!
